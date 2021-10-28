@@ -2,6 +2,11 @@
 
 for test lib run script
 
+install req for libft-unit-test (Debian)
+```bash
+apt install clang libncurses-dev libbsd-dev -y
+```
+
 ```bash
 chmod +x runtest.sh
 ./runtest.sh
